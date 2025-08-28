@@ -1,0 +1,9 @@
+{
+  "report_name": "Test Report",
+  "ref_doctype": "Sales Invoice",
+  "report_type": "Script Report",
+  "is_standard": "Yes",
+  "roles": [
+    { "role": "System Manager" }
+  ]
+}
